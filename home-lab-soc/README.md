@@ -1,6 +1,6 @@
 # Home Lab SOC Project — Network Capture, Analysis & Incident Reporting
 
-This project simulates real Security Operations Center (SOC) workflows by generating safe network traffic, capturing it with Wireshark, analyzing packet behavior, identifying potential indicators of compromise (IoCs), and producing a professional incident report.  
+This project simulates SOC workflows by generating safe network traffic, capturing it with Wireshark, analyzing packet behavior, identifying potential indicators of compromise (IoCs), and producing a professional incident report.  
 It demonstrates critical skills used by entry-level SOC Analysts and Cybersecurity Analysts.
 
 
