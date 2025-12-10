@@ -29,8 +29,9 @@ Findings
 	•	A successful login occurred between failed attempts
 	•	Pattern resembles brute-force spraying behavior
 
-Screenshot Placeholder:
-screenshots/auth-failures.png
+Screenshots:
+screenshots/auth-failures.jpg
+
 
 
 ## 2. Brute Force Log Analysis (bruteforce.log)
@@ -43,8 +44,8 @@ Findings
 	•	Attempts occurred between 12:20:11 – 12:20:25
 	•	Attack speed suggests automated tooling (Hydra/Medusa-style)
 
-Screenshot Placeholder:
-screenshots/bruteforce.png
+Screenshot:
+screenshots/bruteforce.jpg
 
 
 ## 3. Web Exploitation Attempts (web.log)
@@ -61,8 +62,9 @@ Findings
 	•	Suspicious POST upload attempt from 77.23.66.8
 	•	Activity aligns with web exploitation reconnaissance
 
-Screenshot Placeholder:
-screenshots/web-attacks.png
+Screenshot:
+screenshots/web-attacks.jpg
+
 
 
 ## 4. Firewall Reconnaissance Analysis (firewall.log)
@@ -85,8 +87,9 @@ Attacker 185.123.44.21 attempted connections to:
 
 This represents systematic multi-port scanning.
 
-Screenshot Placeholder:
-screenshots/firewall-scan.png
+Screenshot:
+screenshots/firewall-scan.jpg
+
 
 
 
@@ -103,11 +106,12 @@ The logs show a complete simulated intrusion sequence:
 	•	Recon → Credential attacks → Web exploitation → Persistence attempt
 
 
-  ##      6. Skills Demonstrated  
-	•	SIEM search and filtering
-	•	SPL query building
-	•	Field extraction using rex
-	•	Threat pattern identification
-	•	Cross-log correlation
-	•	Technical documentation
-	•	Incident investigation workflow
+
+  ## 6. Skills Demonstrated  
+•	SIEM search and filtering
+•	SPL query building
+•	Field extraction using rex
+•	Threat pattern identification
+•	Cross-log correlation
+•	Technical documentation
+•	Incident investigation workflow
